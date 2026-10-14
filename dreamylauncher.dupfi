@@ -1,0 +1,16 @@
+name = DreamyLauncher
+version = 9.0.5
+author = Dream Company
+description = DreamyLauncherMega — лаунчер Minecraft
+level = 2
+
+[Git]
+url = https://raw.githubusercontent.com/dream-companyx/Adapted_Launcher_Mincraft_For_DreamUX/main/dreamylauncher.duap
+
+[FileGit]
+dreamylauncher.py
+_plugin_loader.py
+curseforge_dl.py
+plugins/console_viewer.py
+plugins/tl_mirror.py
+plugins/.enabled.json
