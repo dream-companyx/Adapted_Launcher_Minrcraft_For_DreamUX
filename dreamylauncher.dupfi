@@ -5,7 +5,7 @@ description = DreamyLauncherMega — лаунчер Minecraft
 level = 2
 
 [Git]
-url = https://raw.githubusercontent.com/dream-companyx/Adapted_Launcher_Mincraft_For_DreamUX/main/dreamylauncher.duap
+url = https://raw.githubusercontent.com/dream-companyx/Adapted_Launcher_Mincraft_For_DreamUX/main/dreamylauncher.zip
 
 [FileGit]
 dreamylauncher.py
